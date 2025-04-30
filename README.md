@@ -1,5 +1,4 @@
-<h1 align="center">Ку я Vergusha</h1>
-<h3 align="center">I’m a dolbayob</h3>
+<h1 align="center">Sup, I'm Vergusha</h1>
 
 <h3 align="center">My links:</h3>
 <p align="center">
