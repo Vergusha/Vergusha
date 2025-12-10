@@ -1,5 +1,5 @@
 <h1 align="center">Sup, I'm Vergusha</h1>
-<p align="center">С# Middle Promt Engineer</p>
+<p align="center">С# Middle Prompt Engineer</p>
 
 <p align="center">
   <a href="https://discord.com/channels/@me/548826968175542276" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" width="40" height="40"  /> </a>
