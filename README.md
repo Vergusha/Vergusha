@@ -1,4 +1,3 @@
-<h1 align="center">Sup, I'm Vergusha</h1>
 <p align="center">С# Middle Prompt Engineer</p>
 
 <p align="center">
