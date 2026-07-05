@@ -1,6 +1,6 @@
 # Vergusha
 
-Indie game developer originally from Ukraine.
+Indie game developer.
 
 Currently working on:
 
